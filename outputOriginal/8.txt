@@ -1,0 +1,2752 @@
+Name: Vest,quality: 8,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 8,sellin: 7
+Name: Sulfuras, Hand of Ragnaros,quality: 8,sellin: 27
+Name: Elixir of the Mongoose,quality: 19,sellin: 48
+Name: Aged Brie,quality: 13,sellin: 25
+Name: Conjured Mana Cake,quality: 29,sellin: 1
+We have 1000.0 moneys.
+Update!
+We sold item Conjured
+We sold item Elixir of the Mongoose
+We sold item Vest
+We sold item Aged Brie
+We sold item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We have 5151.5 moneys.
+We have 5151.5 moneys.
+Update!
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We have 5151.5 moneys.
+We have 5151.5 moneys.
+Update!
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We have 5151.5 moneys.
+We have 5151.5 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We sold item Vest
+We sold item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+Name: Aged Brie,quality: 48,sellin: 13
+We have 6291.0 moneys.
+Name: Aged Brie,quality: 48,sellin: 13
+We have 6291.0 moneys.
+Update!
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We sold item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We have 7659.0 moneys.
+We have 7659.0 moneys.
+Update!
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Vest
+We have 7659.0 moneys.
+We have 7659.0 moneys.
+Update!
+We sold item Conjured
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We sold item Aged Brie
+We don't have this item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We have 11216.0 moneys.
+We have 11216.0 moneys.
+Update!
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We have 11216.0 moneys.
+We have 11216.0 moneys.
+Update!
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We have 11216.0 moneys.
+We have 11216.0 moneys.
+Update!
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We sold item Vest
+We sold item Aged Brie
+We sold item Conjured
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Vest
+We sold item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Aged Brie
+We have 16791.0 moneys.
+We have 16791.0 moneys.
+Update!
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Vest
+We have 16791.0 moneys.
+We have 16791.0 moneys.
+Update!
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We have 16791.0 moneys.
+We have 16791.0 moneys.
+Update!
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Vest
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Vest
+We sold item Conjured Mana Cake
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Aged Brie
+We don't have this item Conjured
+We sold item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 23
+We have 22135.0 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 23
+We have 22135.0 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We have 25271.5 moneys.
+We have 25271.5 moneys.
+Update!
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Aged Brie
+We have 25271.5 moneys.
+We have 25271.5 moneys.
+Update!
+We sold item Conjured
+We sold item Vest
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We sold item Vest
+We sold item Vest
+We don't have this item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We sold item Conjured
+We don't have this item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We sold item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+Name: Vest,quality: 20,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 12,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 3
+Name: Aged Brie,quality: 21,sellin: 27
+Name: Aged Brie,quality: 37,sellin: 18
+Name: Aged Brie,quality: 39,sellin: 9
+Name: Aged Brie,quality: 36,sellin: 6
+Name: Vest,quality: 42,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 40
+Name: Aged Brie,quality: 42,sellin: 10
+We have 40555.0 moneys.
+Name: Vest,quality: 20,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 12,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 3
+Name: Aged Brie,quality: 21,sellin: 27
+Name: Aged Brie,quality: 37,sellin: 18
+Name: Aged Brie,quality: 39,sellin: 9
+Name: Aged Brie,quality: 36,sellin: 6
+Name: Vest,quality: 42,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 40
+Name: Aged Brie,quality: 42,sellin: 10
+We have 40555.0 moneys.
+Update!
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We sold item Aged Brie
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We sold item Aged Brie
+We don't have this item Conjured
+We sold item Vest
+We sold item Vest
+We sold item Aged Brie
+We sold item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We sold item Aged Brie
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We sold item Vest
+We don't have this item Conjured
+Name: Vest,quality: 19,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 2
+Name: Aged Brie,quality: 22,sellin: 26
+Name: Aged Brie,quality: 38,sellin: 17
+Name: Aged Brie,quality: 41,sellin: 8
+Name: Aged Brie,quality: 38,sellin: 5
+Name: Vest,quality: 41,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 39
+Name: Aged Brie,quality: 44,sellin: 9
+We have 54554.5 moneys.
+Name: Vest,quality: 19,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 2
+Name: Aged Brie,quality: 22,sellin: 26
+Name: Aged Brie,quality: 38,sellin: 17
+Name: Aged Brie,quality: 41,sellin: 8
+Name: Aged Brie,quality: 38,sellin: 5
+Name: Vest,quality: 41,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 39
+Name: Aged Brie,quality: 44,sellin: 9
+We have 54554.5 moneys.
+Update!
+We sold item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We sold item Vest
+We don't have this item Conjured
+We sold item Vest
+We sold item Vest
+We sold item Aged Brie
+We sold item Vest
+We sold item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+Name: Vest,quality: 19,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 1
+Name: Aged Brie,quality: 22,sellin: 25
+Name: Aged Brie,quality: 38,sellin: 16
+Name: Aged Brie,quality: 41,sellin: 7
+Name: Aged Brie,quality: 38,sellin: 4
+Name: Vest,quality: 40,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 38
+Name: Aged Brie,quality: 46,sellin: 8
+We have 75695.5 moneys.
+Name: Vest,quality: 19,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 1
+Name: Aged Brie,quality: 22,sellin: 25
+Name: Aged Brie,quality: 38,sellin: 16
+Name: Aged Brie,quality: 41,sellin: 7
+Name: Aged Brie,quality: 38,sellin: 4
+Name: Vest,quality: 40,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 38
+Name: Aged Brie,quality: 46,sellin: 8
+We have 75695.5 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We sold item Vest
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We don't have this item Conjured
+We sold item Vest
+We sold item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We sold item Aged Brie
+We don't have this item Conjured
+Name: Vest,quality: 18,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 20
+Name: Sulfuras, Hand of Ragnaros,quality: 28,sellin: 39
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 25
+Name: Aged Brie,quality: 23,sellin: 24
+Name: Aged Brie,quality: 39,sellin: 15
+Name: Aged Brie,quality: 43,sellin: 6
+Name: Aged Brie,quality: 41,sellin: 3
+Name: Conjured Mana Cake,quality: 25,sellin: 7
+Name: Conjured Mana Cake,quality: 28,sellin: -1
+Name: Conjured Mana Cake,quality: 23,sellin: 8
+Name: Conjured Mana Cake,quality: 25,sellin: 1
+Name: Conjured Mana Cake,quality: 27,sellin: -1
+Name: Vest,quality: 39,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 37
+Name: Aged Brie,quality: 48,sellin: 7
+We have 92424.0 moneys.
+Name: Vest,quality: 18,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 20
+Name: Sulfuras, Hand of Ragnaros,quality: 28,sellin: 39
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 25
+Name: Aged Brie,quality: 23,sellin: 24
+Name: Aged Brie,quality: 39,sellin: 15
+Name: Aged Brie,quality: 43,sellin: 6
+Name: Aged Brie,quality: 41,sellin: 3
+Name: Conjured Mana Cake,quality: 25,sellin: 7
+Name: Conjured Mana Cake,quality: 28,sellin: -1
+Name: Conjured Mana Cake,quality: 23,sellin: 8
+Name: Conjured Mana Cake,quality: 25,sellin: 1
+Name: Conjured Mana Cake,quality: 27,sellin: -1
+Name: Vest,quality: 39,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 37
+Name: Aged Brie,quality: 48,sellin: 7
+We have 92424.0 moneys.
+Update!
+We don't have this item Elixir of the Mongoose
+We sold item Aged Brie
+We sold item Aged Brie
+We sold item Vest
+We sold item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+Name: Vest,quality: 18,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 19
+Name: Aged Brie,quality: 23,sellin: 23
+Name: Aged Brie,quality: 39,sellin: 14
+Name: Aged Brie,quality: 43,sellin: 5
+Name: Aged Brie,quality: 41,sellin: 2
+Name: Conjured Mana Cake,quality: 25,sellin: 6
+Name: Conjured Mana Cake,quality: 23,sellin: 7
+Name: Conjured Mana Cake,quality: 25,sellin: 0
+Name: Vest,quality: 38,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 36
+Name: Aged Brie,quality: 50,sellin: 6
+We have 114066.0 moneys.
+Name: Vest,quality: 18,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 19
+Name: Aged Brie,quality: 23,sellin: 23
+Name: Aged Brie,quality: 39,sellin: 14
+Name: Aged Brie,quality: 43,sellin: 5
+Name: Aged Brie,quality: 41,sellin: 2
+Name: Conjured Mana Cake,quality: 25,sellin: 6
+Name: Conjured Mana Cake,quality: 23,sellin: 7
+Name: Conjured Mana Cake,quality: 25,sellin: 0
+Name: Vest,quality: 38,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 36
+Name: Aged Brie,quality: 50,sellin: 6
+We have 114066.0 moneys.
+Update!
+We sold item Vest
+We don't have this item Conjured
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+Name: Vest,quality: 17,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 18
+Name: Aged Brie,quality: 24,sellin: 22
+Name: Aged Brie,quality: 40,sellin: 13
+Name: Aged Brie,quality: 46,sellin: 4
+Name: Aged Brie,quality: 44,sellin: 1
+Name: Vest,quality: 37,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 35
+Name: Aged Brie,quality: 50,sellin: 5
+We have 120153.0 moneys.
+Name: Vest,quality: 17,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 18
+Name: Aged Brie,quality: 24,sellin: 22
+Name: Aged Brie,quality: 40,sellin: 13
+Name: Aged Brie,quality: 46,sellin: 4
+Name: Aged Brie,quality: 44,sellin: 1
+Name: Vest,quality: 37,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 35
+Name: Aged Brie,quality: 50,sellin: 5
+We have 120153.0 moneys.
+Update!
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured
+We don't have this item Conjured
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Conjured Mana Cake
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Aged Brie
+We sold item Vest
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+Name: Vest,quality: 17,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 16
+Name: Sulfuras, Hand of Ragnaros,quality: 25,sellin: 26
+Name: Sulfuras, Hand of Ragnaros,quality: 28,sellin: 47
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 3
+Name: Elixir of the Mongoose,quality: 23,sellin: -1
+Name: Elixir of the Mongoose,quality: 38,sellin: 48
+Name: Elixir of the Mongoose,quality: 45,sellin: 25
+Name: Elixir of the Mongoose,quality: 30,sellin: 6
+Name: Elixir of the Mongoose,quality: 36,sellin: 10
+Name: Elixir of the Mongoose,quality: 26,sellin: 46
+Name: Aged Brie,quality: 24,sellin: 21
+Name: Aged Brie,quality: 40,sellin: 12
+Name: Aged Brie,quality: 46,sellin: 3
+Name: Aged Brie,quality: 44,sellin: 0
+Name: Aged Brie,quality: 49,sellin: 21
+Name: Conjured Mana Cake,quality: 13,sellin: 47
+Name: Conjured Mana Cake,quality: 41,sellin: 15
+Name: Conjured Mana Cake,quality: 22,sellin: 0
+Name: Conjured Mana Cake,quality: 27,sellin: 37
+Name: Vest,quality: 36,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 34
+Name: Aged Brie,quality: 50,sellin: 4
+We have 126599.0 moneys.
+Name: Vest,quality: 17,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 16
+Name: Sulfuras, Hand of Ragnaros,quality: 25,sellin: 26
+Name: Sulfuras, Hand of Ragnaros,quality: 28,sellin: 47
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 3
+Name: Elixir of the Mongoose,quality: 23,sellin: -1
+Name: Elixir of the Mongoose,quality: 38,sellin: 48
+Name: Elixir of the Mongoose,quality: 45,sellin: 25
+Name: Elixir of the Mongoose,quality: 30,sellin: 6
+Name: Elixir of the Mongoose,quality: 36,sellin: 10
+Name: Elixir of the Mongoose,quality: 26,sellin: 46
+Name: Aged Brie,quality: 24,sellin: 21
+Name: Aged Brie,quality: 40,sellin: 12
+Name: Aged Brie,quality: 46,sellin: 3
+Name: Aged Brie,quality: 44,sellin: 0
+Name: Aged Brie,quality: 49,sellin: 21
+Name: Conjured Mana Cake,quality: 13,sellin: 47
+Name: Conjured Mana Cake,quality: 41,sellin: 15
+Name: Conjured Mana Cake,quality: 22,sellin: 0
+Name: Conjured Mana Cake,quality: 27,sellin: 37
+Name: Vest,quality: 36,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 34
+Name: Aged Brie,quality: 50,sellin: 4
+We have 126599.0 moneys.
+Update!
+We don't have this item Conjured
+We sold item Aged Brie
+We sold item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+Name: Vest,quality: 16,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 15
+Name: Aged Brie,quality: 25,sellin: 20
+Name: Aged Brie,quality: 41,sellin: 11
+Name: Aged Brie,quality: 49,sellin: 2
+Name: Aged Brie,quality: 0,sellin: -1
+Name: Aged Brie,quality: 50,sellin: 20
+Name: Vest,quality: 35,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 33
+Name: Aged Brie,quality: 50,sellin: 3
+We have 175466.0 moneys.
+Name: Vest,quality: 16,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 15
+Name: Aged Brie,quality: 25,sellin: 20
+Name: Aged Brie,quality: 41,sellin: 11
+Name: Aged Brie,quality: 49,sellin: 2
+Name: Aged Brie,quality: 0,sellin: -1
+Name: Aged Brie,quality: 50,sellin: 20
+Name: Vest,quality: 35,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 33
+Name: Aged Brie,quality: 50,sellin: 3
+We have 175466.0 moneys.
+Update!
+We sold item Aged Brie
+We don't have this item Elixir of the Mongoose
+We sold item Aged Brie
+We sold item Vest
+We don't have this item Conjured Mana Cake
+We sold item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We sold item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We sold item Vest
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We sold item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+Name: Vest,quality: 16,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 14
+Name: Aged Brie,quality: 25,sellin: 19
+Name: Aged Brie,quality: 41,sellin: 10
+Name: Aged Brie,quality: 49,sellin: 1
+Name: Aged Brie,quality: 0,sellin: -2
+Name: Vest,quality: 34,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 32
+Name: Aged Brie,quality: 50,sellin: 2
+We have 209906.0 moneys.
+Name: Vest,quality: 16,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 14
+Name: Aged Brie,quality: 25,sellin: 19
+Name: Aged Brie,quality: 41,sellin: 10
+Name: Aged Brie,quality: 49,sellin: 1
+Name: Aged Brie,quality: 0,sellin: -2
+Name: Vest,quality: 34,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 32
+Name: Aged Brie,quality: 50,sellin: 2
+We have 209906.0 moneys.
+Update!
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We sold item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We sold item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Vest
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Aged Brie
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Aged Brie
+Name: Vest,quality: 15,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 29
+Name: Sulfuras, Hand of Ragnaros,quality: 7,sellin: 13
+Name: Elixir of the Mongoose,quality: 3,sellin: 38
+Name: Elixir of the Mongoose,quality: 29,sellin: 21
+Name: Elixir of the Mongoose,quality: 33,sellin: 20
+Name: Elixir of the Mongoose,quality: 18,sellin: 18
+Name: Elixir of the Mongoose,quality: 35,sellin: 44
+Name: Aged Brie,quality: 26,sellin: 18
+Name: Aged Brie,quality: 43,sellin: 9
+Name: Aged Brie,quality: 50,sellin: 0
+Name: Aged Brie,quality: 0,sellin: -3
+Name: Conjured Mana Cake,quality: 8,sellin: 3
+Name: Conjured Mana Cake,quality: 38,sellin: 1
+Name: Conjured Mana Cake,quality: 38,sellin: 40
+Name: Conjured Mana Cake,quality: 28,sellin: 44
+Name: Conjured Mana Cake,quality: 22,sellin: 14
+Name: Conjured Mana Cake,quality: 38,sellin: 30
+Name: Conjured Mana Cake,quality: 26,sellin: 2
+Name: Vest,quality: 33,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 31
+Name: Aged Brie,quality: 50,sellin: 1
+We have 229271.0 moneys.
+Name: Vest,quality: 15,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 29
+Name: Sulfuras, Hand of Ragnaros,quality: 7,sellin: 13
+Name: Elixir of the Mongoose,quality: 3,sellin: 38
+Name: Elixir of the Mongoose,quality: 29,sellin: 21
+Name: Elixir of the Mongoose,quality: 33,sellin: 20
+Name: Elixir of the Mongoose,quality: 18,sellin: 18
+Name: Elixir of the Mongoose,quality: 35,sellin: 44
+Name: Aged Brie,quality: 26,sellin: 18
+Name: Aged Brie,quality: 43,sellin: 9
+Name: Aged Brie,quality: 50,sellin: 0
+Name: Aged Brie,quality: 0,sellin: -3
+Name: Conjured Mana Cake,quality: 8,sellin: 3
+Name: Conjured Mana Cake,quality: 38,sellin: 1
+Name: Conjured Mana Cake,quality: 38,sellin: 40
+Name: Conjured Mana Cake,quality: 28,sellin: 44
+Name: Conjured Mana Cake,quality: 22,sellin: 14
+Name: Conjured Mana Cake,quality: 38,sellin: 30
+Name: Conjured Mana Cake,quality: 26,sellin: 2
+Name: Vest,quality: 33,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 31
+Name: Aged Brie,quality: 50,sellin: 1
+We have 229271.0 moneys.
+Update!
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We sold item Elixir of the Mongoose
+We sold item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+Name: Vest,quality: 15,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 28
+Name: Elixir of the Mongoose,quality: 3,sellin: 37
+Name: Elixir of the Mongoose,quality: 29,sellin: 20
+Name: Elixir of the Mongoose,quality: 18,sellin: 17
+Name: Aged Brie,quality: 26,sellin: 17
+Name: Aged Brie,quality: 43,sellin: 8
+Name: Aged Brie,quality: 0,sellin: -4
+Name: Conjured Mana Cake,quality: 8,sellin: 2
+Name: Conjured Mana Cake,quality: 38,sellin: 39
+Name: Conjured Mana Cake,quality: 28,sellin: 43
+Name: Conjured Mana Cake,quality: 22,sellin: 13
+Name: Conjured Mana Cake,quality: 38,sellin: 29
+Name: Conjured Mana Cake,quality: 26,sellin: 1
+Name: Vest,quality: 32,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 30
+Name: Aged Brie,quality: 50,sellin: 0
+We have 264827.0 moneys.
+Name: Vest,quality: 15,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 28
+Name: Elixir of the Mongoose,quality: 3,sellin: 37
+Name: Elixir of the Mongoose,quality: 29,sellin: 20
+Name: Elixir of the Mongoose,quality: 18,sellin: 17
+Name: Aged Brie,quality: 26,sellin: 17
+Name: Aged Brie,quality: 43,sellin: 8
+Name: Aged Brie,quality: 0,sellin: -4
+Name: Conjured Mana Cake,quality: 8,sellin: 2
+Name: Conjured Mana Cake,quality: 38,sellin: 39
+Name: Conjured Mana Cake,quality: 28,sellin: 43
+Name: Conjured Mana Cake,quality: 22,sellin: 13
+Name: Conjured Mana Cake,quality: 38,sellin: 29
+Name: Conjured Mana Cake,quality: 26,sellin: 1
+Name: Vest,quality: 32,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 30
+Name: Aged Brie,quality: 50,sellin: 0
+We have 264827.0 moneys.
+Update!
+We don't have this item Conjured
+We sold item Aged Brie
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We sold item Aged Brie
+We sold item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We sold item Aged Brie
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We sold item Vest
+Name: Vest,quality: 14,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 27
+Name: Elixir of the Mongoose,quality: 2,sellin: 36
+Name: Elixir of the Mongoose,quality: 17,sellin: 16
+Name: Aged Brie,quality: 27,sellin: 16
+Name: Aged Brie,quality: 45,sellin: 7
+Name: Aged Brie,quality: 0,sellin: -5
+Name: Vest,quality: 31,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 29
+Name: Aged Brie,quality: 0,sellin: -1
+We have 294308.0 moneys.
+Name: Vest,quality: 14,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 27
+Name: Elixir of the Mongoose,quality: 2,sellin: 36
+Name: Elixir of the Mongoose,quality: 17,sellin: 16
+Name: Aged Brie,quality: 27,sellin: 16
+Name: Aged Brie,quality: 45,sellin: 7
+Name: Aged Brie,quality: 0,sellin: -5
+Name: Vest,quality: 31,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 29
+Name: Aged Brie,quality: 0,sellin: -1
+We have 294308.0 moneys.
+Update!
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We sold item Conjured
+We sold item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Vest
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We sold item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Conjured
+We sold item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+Name: Vest,quality: 14,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 0
+Name: Elixir of the Mongoose,quality: 2,sellin: 35
+Name: Elixir of the Mongoose,quality: 17,sellin: 15
+Name: Elixir of the Mongoose,quality: 29,sellin: 31
+Name: Elixir of the Mongoose,quality: 19,sellin: 31
+Name: Elixir of the Mongoose,quality: 30,sellin: 11
+Name: Elixir of the Mongoose,quality: 30,sellin: 22
+Name: Aged Brie,quality: 27,sellin: 15
+Name: Aged Brie,quality: 0,sellin: -6
+Name: Aged Brie,quality: 36,sellin: 30
+Name: Aged Brie,quality: 38,sellin: 4
+Name: Conjured Mana Cake,quality: 6,sellin: 4
+Name: Conjured Mana Cake,quality: 37,sellin: 5
+Name: Conjured Mana Cake,quality: 30,sellin: 39
+Name: Conjured Mana Cake,quality: 35,sellin: 9
+Name: Conjured Mana Cake,quality: 24,sellin: 40
+Name: Conjured Mana Cake,quality: 25,sellin: 34
+Name: Vest,quality: 30,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 28
+Name: Aged Brie,quality: 0,sellin: -2
+We have 312735.0 moneys.
+Name: Vest,quality: 14,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 0
+Name: Elixir of the Mongoose,quality: 2,sellin: 35
+Name: Elixir of the Mongoose,quality: 17,sellin: 15
+Name: Elixir of the Mongoose,quality: 29,sellin: 31
+Name: Elixir of the Mongoose,quality: 19,sellin: 31
+Name: Elixir of the Mongoose,quality: 30,sellin: 11
+Name: Elixir of the Mongoose,quality: 30,sellin: 22
+Name: Aged Brie,quality: 27,sellin: 15
+Name: Aged Brie,quality: 0,sellin: -6
+Name: Aged Brie,quality: 36,sellin: 30
+Name: Aged Brie,quality: 38,sellin: 4
+Name: Conjured Mana Cake,quality: 6,sellin: 4
+Name: Conjured Mana Cake,quality: 37,sellin: 5
+Name: Conjured Mana Cake,quality: 30,sellin: 39
+Name: Conjured Mana Cake,quality: 35,sellin: 9
+Name: Conjured Mana Cake,quality: 24,sellin: 40
+Name: Conjured Mana Cake,quality: 25,sellin: 34
+Name: Vest,quality: 30,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 28
+Name: Aged Brie,quality: 0,sellin: -2
+We have 312735.0 moneys.
+Update!
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Aged Brie
+We sold item Vest
+We sold item Vest
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We sold item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Vest
+We don't have this item Aged Brie
+We sold item Vest
+We sold item Vest
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+Name: Vest,quality: 13,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Aged Brie,quality: 0,sellin: -7
+Name: Conjured Mana Cake,quality: 5,sellin: 3
+Name: Conjured Mana Cake,quality: 23,sellin: 39
+Name: Vest,quality: 29,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 27
+Name: Aged Brie,quality: 0,sellin: -3
+We have 354403.5 moneys.
+Name: Vest,quality: 13,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Aged Brie,quality: 0,sellin: -7
+Name: Conjured Mana Cake,quality: 5,sellin: 3
+Name: Conjured Mana Cake,quality: 23,sellin: 39
+Name: Vest,quality: 29,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 27
+Name: Aged Brie,quality: 0,sellin: -3
+We have 354403.5 moneys.
+Update!
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We sold item Vest
+We don't have this item Elixir of the Mongoose
+We sold item Vest
+We sold item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We sold item Vest
+We sold item Vest
+Name: Vest,quality: 13,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Aged Brie,quality: 0,sellin: -8
+Name: Vest,quality: 28,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 26
+Name: Aged Brie,quality: 0,sellin: -4
+We have 374533.5 moneys.
+Name: Vest,quality: 13,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Aged Brie,quality: 0,sellin: -8
+Name: Vest,quality: 28,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 26
+Name: Aged Brie,quality: 0,sellin: -4
+We have 374533.5 moneys.
+Update!
+We sold item Conjured
+We sold item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We sold item Vest
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We sold item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We don't have this item Aged Brie
+We sold item Vest
+We don't have this item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We sold item Vest
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We sold item Vest
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+Name: Vest,quality: 12,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 48
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 12
+Name: Aged Brie,quality: 0,sellin: -9
+Name: Vest,quality: 27,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 25
+Name: Aged Brie,quality: 0,sellin: -5
+We have 414162.5 moneys.
+Name: Vest,quality: 12,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 48
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 12
+Name: Aged Brie,quality: 0,sellin: -9
+Name: Vest,quality: 27,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 25
+Name: Aged Brie,quality: 0,sellin: -5
+We have 412957.94 moneys.
+Update!
+We sold item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We sold item Vest
+We don't have this item Conjured
+We sold item Vest
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Vest
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We sold item Vest
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+Name: Vest,quality: 12,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 47
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 11
+Name: Aged Brie,quality: 0,sellin: -10
+Name: Vest,quality: 26,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 24
+Name: Aged Brie,quality: 0,sellin: -6
+We have 432793.94 moneys.
+Name: Vest,quality: 12,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 47
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 11
+Name: Aged Brie,quality: 0,sellin: -10
+Name: Vest,quality: 26,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 24
+Name: Aged Brie,quality: 0,sellin: -6
+We have 432793.94 moneys.
+Update!
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+Name: Vest,quality: 11,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 46
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 10
+Name: Aged Brie,quality: 0,sellin: -11
+Name: Vest,quality: 25,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 23
+Name: Aged Brie,quality: 0,sellin: -7
+We have 440989.94 moneys.
+Name: Vest,quality: 11,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 46
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 10
+Name: Aged Brie,quality: 0,sellin: -11
+Name: Vest,quality: 25,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 23
+Name: Aged Brie,quality: 0,sellin: -7
+We have 440989.94 moneys.
+Update!
+We sold item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Conjured
+We sold item Aged Brie
+We sold item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We don't have this item Aged Brie
+We sold item Conjured
+We sold item Conjured Mana Cake
+We sold item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We sold item Vest
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+Name: Vest,quality: 11,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 45
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 35
+Name: Sulfuras, Hand of Ragnaros,quality: 17,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 14
+Name: Sulfuras, Hand of Ragnaros,quality: 20,sellin: 35
+Name: Elixir of the Mongoose,quality: 37,sellin: 15
+Name: Elixir of the Mongoose,quality: 37,sellin: 23
+Name: Elixir of the Mongoose,quality: 22,sellin: 1
+Name: Elixir of the Mongoose,quality: 23,sellin: -1
+Name: Elixir of the Mongoose,quality: 36,sellin: 18
+Name: Elixir of the Mongoose,quality: 23,sellin: 21
+Name: Elixir of the Mongoose,quality: 40,sellin: 22
+Name: Elixir of the Mongoose,quality: 26,sellin: 23
+Name: Aged Brie,quality: 0,sellin: -12
+Name: Conjured Mana Cake,quality: 16,sellin: 16
+Name: Conjured Mana Cake,quality: 35,sellin: 44
+Name: Conjured Mana Cake,quality: 44,sellin: 36
+Name: Vest,quality: 24,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 22
+Name: Aged Brie,quality: 0,sellin: -8
+We have 436427.44 moneys.
+Name: Vest,quality: 11,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 45
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 35
+Name: Sulfuras, Hand of Ragnaros,quality: 17,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 14
+Name: Sulfuras, Hand of Ragnaros,quality: 20,sellin: 35
+Name: Elixir of the Mongoose,quality: 37,sellin: 15
+Name: Elixir of the Mongoose,quality: 37,sellin: 23
+Name: Elixir of the Mongoose,quality: 22,sellin: 1
+Name: Elixir of the Mongoose,quality: 23,sellin: -1
+Name: Elixir of the Mongoose,quality: 36,sellin: 18
+Name: Elixir of the Mongoose,quality: 23,sellin: 21
+Name: Elixir of the Mongoose,quality: 40,sellin: 22
+Name: Elixir of the Mongoose,quality: 26,sellin: 23
+Name: Aged Brie,quality: 0,sellin: -12
+Name: Conjured Mana Cake,quality: 16,sellin: 16
+Name: Conjured Mana Cake,quality: 35,sellin: 44
+Name: Conjured Mana Cake,quality: 44,sellin: 36
+Name: Vest,quality: 24,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 22
+Name: Aged Brie,quality: 0,sellin: -8
+We have 436427.44 moneys.
+Update!
+We sold item Conjured Mana Cake
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Vest
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We sold item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+Name: Vest,quality: 10,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 34
+Name: Elixir of the Mongoose,quality: 21,sellin: 0
+Name: Elixir of the Mongoose,quality: 21,sellin: -2
+Name: Elixir of the Mongoose,quality: 22,sellin: 20
+Name: Elixir of the Mongoose,quality: 25,sellin: 22
+Name: Aged Brie,quality: 0,sellin: -13
+Name: Vest,quality: 23,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 21
+Name: Aged Brie,quality: 0,sellin: -9
+We have 459911.44 moneys.
+Name: Vest,quality: 10,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 34
+Name: Elixir of the Mongoose,quality: 21,sellin: 0
+Name: Elixir of the Mongoose,quality: 21,sellin: -2
+Name: Elixir of the Mongoose,quality: 22,sellin: 20
+Name: Elixir of the Mongoose,quality: 25,sellin: 22
+Name: Aged Brie,quality: 0,sellin: -13
+Name: Vest,quality: 23,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 21
+Name: Aged Brie,quality: 0,sellin: -9
+We have 459911.44 moneys.
+Update!
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Vest
+We sold item Vest
+We don't have this item Aged Brie
+We sold item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+Name: Vest,quality: 10,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 33
+Name: Elixir of the Mongoose,quality: 21,sellin: -1
+Name: Elixir of the Mongoose,quality: 21,sellin: -3
+Name: Aged Brie,quality: 0,sellin: -14
+Name: Vest,quality: 22,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 20
+Name: Aged Brie,quality: 0,sellin: -10
+We have 475091.44 moneys.
+Name: Vest,quality: 10,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 33
+Name: Elixir of the Mongoose,quality: 21,sellin: -1
+Name: Elixir of the Mongoose,quality: 21,sellin: -3
+Name: Aged Brie,quality: 0,sellin: -14
+Name: Vest,quality: 22,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 20
+Name: Aged Brie,quality: 0,sellin: -10
+We have 475091.44 moneys.
+Update!
+We sold item Vest
+We sold item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured
+We sold item Vest
+We sold item Conjured
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We don't have this item Aged Brie
+We sold item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Vest
+We sold item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Conjured
+We sold item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+Name: Vest,quality: 8,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 47
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 17
+Name: Elixir of the Mongoose,quality: 19,sellin: -4
+Name: Elixir of the Mongoose,quality: 19,sellin: 22
+Name: Aged Brie,quality: 0,sellin: -15
+Name: Conjured,quality: 5,sellin: 8
+Name: Conjured,quality: 34,sellin: 20
+Name: Conjured,quality: 33,sellin: 23
+Name: Conjured Mana Cake,quality: 27,sellin: 46
+Name: Conjured Mana Cake,quality: 26,sellin: 9
+Name: Vest,quality: 21,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 19
+Name: Aged Brie,quality: 0,sellin: -11
+We have 490524.94 moneys.
+Name: Vest,quality: 8,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 47
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 17
+Name: Elixir of the Mongoose,quality: 19,sellin: -4
+Name: Elixir of the Mongoose,quality: 19,sellin: 22
+Name: Aged Brie,quality: 0,sellin: -15
+Name: Conjured,quality: 5,sellin: 8
+Name: Conjured,quality: 34,sellin: 20
+Name: Conjured,quality: 33,sellin: 23
+Name: Conjured Mana Cake,quality: 27,sellin: 46
+Name: Conjured Mana Cake,quality: 26,sellin: 9
+Name: Vest,quality: 21,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 19
+Name: Aged Brie,quality: 0,sellin: -11
+We have 490524.94 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We sold item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We sold item Vest
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We sold item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We sold item Vest
+We sold item Vest
+We sold item Vest
+We don't have this item Conjured Mana Cake
+Name: Vest,quality: 8,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 46
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 16
+Name: Aged Brie,quality: 0,sellin: -16
+Name: Conjured,quality: 5,sellin: 7
+Name: Vest,quality: 20,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 18
+Name: Aged Brie,quality: 0,sellin: -12
+We have 533895.94 moneys.
+Name: Vest,quality: 8,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 46
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 16
+Name: Aged Brie,quality: 0,sellin: -16
+Name: Conjured,quality: 5,sellin: 7
+Name: Vest,quality: 20,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 18
+Name: Aged Brie,quality: 0,sellin: -12
+We have 533895.94 moneys.
+Update!
+We sold item Vest
+We sold item Vest
+We sold item Conjured
+We sold item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We sold item Vest
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+Name: Vest,quality: 6,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 45
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 15
+Name: Aged Brie,quality: 0,sellin: -17
+Name: Vest,quality: 19,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 17
+Name: Aged Brie,quality: 0,sellin: -13
+We have 547605.94 moneys.
+Name: Vest,quality: 6,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 45
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 15
+Name: Aged Brie,quality: 0,sellin: -17
+Name: Vest,quality: 19,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 17
+Name: Aged Brie,quality: 0,sellin: -13
+We have 547605.94 moneys.
+Update!
+We sold item Elixir of the Mongoose
+We sold item Conjured
+We sold item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We don't have this item Conjured
+We sold item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We sold item Vest
+We don't have this item Conjured Mana Cake
+Name: Vest,quality: 6,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 35
+Name: Sulfuras, Hand of Ragnaros,quality: 2,sellin: 27
+Name: Sulfuras, Hand of Ragnaros,quality: 22,sellin: 4
+Name: Elixir of the Mongoose,quality: 1,sellin: 7
+Name: Elixir of the Mongoose,quality: 20,sellin: 16
+Name: Aged Brie,quality: 0,sellin: -18
+Name: Aged Brie,quality: 37,sellin: 35
+Name: Vest,quality: 18,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 16
+Name: Aged Brie,quality: 0,sellin: -14
+We have 546737.94 moneys.

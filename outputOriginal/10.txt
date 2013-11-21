@@ -1,0 +1,2745 @@
+Name: Vest,quality: 32,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 35
+Name: Sulfuras, Hand of Ragnaros,quality: 15,sellin: 41
+Name: Elixir of the Mongoose,quality: 19,sellin: 22
+Name: Aged Brie,quality: 31,sellin: 38
+Name: Conjured Mana Cake,quality: 38,sellin: 18
+We have 1000.0 moneys.
+Update!
+We sold item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We sold item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Vest
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We have 7772.5 moneys.
+We have 7772.5 moneys.
+Update!
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Vest
+We have 7772.5 moneys.
+We have 7772.5 moneys.
+Update!
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We have 7772.5 moneys.
+We have 7772.5 moneys.
+Update!
+We sold item Elixir of the Mongoose
+We sold item Conjured
+We don't have this item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We sold item Conjured
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We sold item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We have 11430.0 moneys.
+We have 11430.0 moneys.
+Update!
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We have 11430.0 moneys.
+We have 11430.0 moneys.
+Update!
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We have 11430.0 moneys.
+We have 11430.0 moneys.
+Update!
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Conjured
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We have 17141.5 moneys.
+We have 17141.5 moneys.
+Update!
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We have 17141.5 moneys.
+We have 17141.5 moneys.
+Update!
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We have 17141.5 moneys.
+We have 17141.5 moneys.
+Update!
+We sold item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Vest
+We sold item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Conjured Mana Cake
+We sold item Conjured
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We have 25705.0 moneys.
+We have 25705.0 moneys.
+Update!
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Sulfuras, Hand of Ragnaros
+We have 25705.0 moneys.
+We have 25705.0 moneys.
+Update!
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Backstage passes to a TAFKAL80ETC concert
+We have 25705.0 moneys.
+We have 25705.0 moneys.
+Update!
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Vest
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Conjured
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 25
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Elixir of the Mongoose,quality: 31,sellin: 17
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 10
+Name: Elixir of the Mongoose,quality: 37,sellin: -1
+Name: Elixir of the Mongoose,quality: 27,sellin: 15
+We have 28616.0 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 25
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Elixir of the Mongoose,quality: 31,sellin: 17
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 10
+Name: Elixir of the Mongoose,quality: 37,sellin: -1
+Name: Elixir of the Mongoose,quality: 27,sellin: 15
+We have 28616.0 moneys.
+Update!
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 3
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Elixir of the Mongoose,quality: 31,sellin: 16
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 9
+Name: Elixir of the Mongoose,quality: 35,sellin: -2
+Name: Elixir of the Mongoose,quality: 26,sellin: 14
+We have 60993.5 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 3
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Elixir of the Mongoose,quality: 31,sellin: 16
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 9
+Name: Elixir of the Mongoose,quality: 35,sellin: -2
+Name: Elixir of the Mongoose,quality: 26,sellin: 14
+We have 60993.5 moneys.
+Update!
+We sold item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Aged Brie
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We don't have this item Vest
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Elixir of the Mongoose,quality: 30,sellin: 15
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 8
+Name: Elixir of the Mongoose,quality: 33,sellin: -3
+Name: Elixir of the Mongoose,quality: 25,sellin: 13
+We have 82698.5 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Elixir of the Mongoose,quality: 30,sellin: 15
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 8
+Name: Elixir of the Mongoose,quality: 33,sellin: -3
+Name: Elixir of the Mongoose,quality: 25,sellin: 13
+We have 82698.5 moneys.
+Update!
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Aged Brie
+We sold item Aged Brie
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We sold item Conjured
+We sold item Elixir of the Mongoose
+We sold item Conjured
+We don't have this item Aged Brie
+We sold item Vest
+We sold item Vest
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 12,sellin: 11
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 30,sellin: 14
+Name: Elixir of the Mongoose,quality: 19,sellin: 22
+Name: Elixir of the Mongoose,quality: 24,sellin: 39
+Name: Elixir of the Mongoose,quality: 24,sellin: 46
+Name: Elixir of the Mongoose,quality: 32,sellin: 42
+Name: Elixir of the Mongoose,quality: 19,sellin: 42
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 7
+Name: Elixir of the Mongoose,quality: 31,sellin: -4
+Name: Elixir of the Mongoose,quality: 24,sellin: 12
+We have 98823.0 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 12,sellin: 11
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 30,sellin: 14
+Name: Elixir of the Mongoose,quality: 19,sellin: 22
+Name: Elixir of the Mongoose,quality: 24,sellin: 39
+Name: Elixir of the Mongoose,quality: 24,sellin: 46
+Name: Elixir of the Mongoose,quality: 32,sellin: 42
+Name: Elixir of the Mongoose,quality: 19,sellin: 42
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 7
+Name: Elixir of the Mongoose,quality: 31,sellin: -4
+Name: Elixir of the Mongoose,quality: 24,sellin: 12
+We have 98823.0 moneys.
+Update!
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 10
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 29,sellin: 13
+Name: Elixir of the Mongoose,quality: 18,sellin: 21
+Name: Elixir of the Mongoose,quality: 23,sellin: 38
+Name: Elixir of the Mongoose,quality: 23,sellin: 45
+Name: Elixir of the Mongoose,quality: 18,sellin: 41
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 6
+Name: Elixir of the Mongoose,quality: 29,sellin: -5
+Name: Elixir of the Mongoose,quality: 23,sellin: 11
+We have 116481.0 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 10
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 29,sellin: 13
+Name: Elixir of the Mongoose,quality: 18,sellin: 21
+Name: Elixir of the Mongoose,quality: 23,sellin: 38
+Name: Elixir of the Mongoose,quality: 23,sellin: 45
+Name: Elixir of the Mongoose,quality: 18,sellin: 41
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 6
+Name: Elixir of the Mongoose,quality: 29,sellin: -5
+Name: Elixir of the Mongoose,quality: 23,sellin: 11
+We have 116481.0 moneys.
+Update!
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 9
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 18,sellin: 20
+Name: Elixir of the Mongoose,quality: 23,sellin: 37
+Name: Elixir of the Mongoose,quality: 23,sellin: 44
+Name: Elixir of the Mongoose,quality: 18,sellin: 40
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 5
+Name: Elixir of the Mongoose,quality: 27,sellin: -6
+Name: Elixir of the Mongoose,quality: 22,sellin: 10
+We have 133725.0 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 13,sellin: 9
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 18,sellin: 20
+Name: Elixir of the Mongoose,quality: 23,sellin: 37
+Name: Elixir of the Mongoose,quality: 23,sellin: 44
+Name: Elixir of the Mongoose,quality: 18,sellin: 40
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 5
+Name: Elixir of the Mongoose,quality: 27,sellin: -6
+Name: Elixir of the Mongoose,quality: 22,sellin: 10
+We have 133725.0 moneys.
+Update!
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured
+We sold item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Aged Brie
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We sold item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 45
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 0
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 17,sellin: 19
+Name: Elixir of the Mongoose,quality: 22,sellin: 36
+Name: Elixir of the Mongoose,quality: 22,sellin: 43
+Name: Elixir of the Mongoose,quality: 17,sellin: 39
+Name: Elixir of the Mongoose,quality: 42,sellin: 30
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 4
+Name: Elixir of the Mongoose,quality: 25,sellin: -7
+Name: Elixir of the Mongoose,quality: 21,sellin: 9
+We have 141997.5 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 45
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 0
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 17,sellin: 19
+Name: Elixir of the Mongoose,quality: 22,sellin: 36
+Name: Elixir of the Mongoose,quality: 22,sellin: 43
+Name: Elixir of the Mongoose,quality: 17,sellin: 39
+Name: Elixir of the Mongoose,quality: 42,sellin: 30
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 4
+Name: Elixir of the Mongoose,quality: 25,sellin: -7
+Name: Elixir of the Mongoose,quality: 21,sellin: 9
+We have 141997.5 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: -1
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 17,sellin: 18
+Name: Elixir of the Mongoose,quality: 22,sellin: 35
+Name: Elixir of the Mongoose,quality: 22,sellin: 42
+Name: Elixir of the Mongoose,quality: 17,sellin: 38
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 3
+Name: Elixir of the Mongoose,quality: 23,sellin: -8
+Name: Elixir of the Mongoose,quality: 20,sellin: 8
+We have 163230.0 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: -1
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 17,sellin: 18
+Name: Elixir of the Mongoose,quality: 22,sellin: 35
+Name: Elixir of the Mongoose,quality: 22,sellin: 42
+Name: Elixir of the Mongoose,quality: 17,sellin: 38
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 3
+Name: Elixir of the Mongoose,quality: 23,sellin: -8
+Name: Elixir of the Mongoose,quality: 20,sellin: 8
+We have 163230.0 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Vest
+We sold item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 16,sellin: 17
+Name: Elixir of the Mongoose,quality: 21,sellin: 34
+Name: Elixir of the Mongoose,quality: 21,sellin: 41
+Name: Elixir of the Mongoose,quality: 16,sellin: 37
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 2
+Name: Elixir of the Mongoose,quality: 21,sellin: -9
+Name: Elixir of the Mongoose,quality: 19,sellin: 7
+We have 185068.5 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 16,sellin: 17
+Name: Elixir of the Mongoose,quality: 21,sellin: 34
+Name: Elixir of the Mongoose,quality: 21,sellin: 41
+Name: Elixir of the Mongoose,quality: 16,sellin: 37
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 2
+Name: Elixir of the Mongoose,quality: 21,sellin: -9
+Name: Elixir of the Mongoose,quality: 19,sellin: 7
+We have 185068.5 moneys.
+Update!
+We sold item Conjured Mana Cake
+We sold item Vest
+We sold item Conjured
+We sold item Aged Brie
+We don't have this item Vest
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We sold item Aged Brie
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We sold item Aged Brie
+We sold item Conjured
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Aged Brie
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Vest
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 39
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 44,sellin: 3
+Name: Sulfuras, Hand of Ragnaros,quality: 29,sellin: 46
+Name: Sulfuras, Hand of Ragnaros,quality: 48,sellin: 45
+Name: Elixir of the Mongoose,quality: 16,sellin: 16
+Name: Elixir of the Mongoose,quality: 21,sellin: 33
+Name: Elixir of the Mongoose,quality: 21,sellin: 40
+Name: Elixir of the Mongoose,quality: 16,sellin: 36
+Name: Elixir of the Mongoose,quality: 41,sellin: -1
+Name: Elixir of the Mongoose,quality: 41,sellin: 6
+Name: Elixir of the Mongoose,quality: 21,sellin: 41
+Name: Elixir of the Mongoose,quality: 36,sellin: 18
+Name: Elixir of the Mongoose,quality: 40,sellin: 11
+Name: Elixir of the Mongoose,quality: 34,sellin: 13
+Name: Conjured,quality: 7,sellin: 27
+Name: Conjured,quality: 43,sellin: 47
+Name: Conjured,quality: 36,sellin: 11
+Name: Conjured,quality: 34,sellin: 12
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 1
+Name: Elixir of the Mongoose,quality: 19,sellin: -10
+Name: Elixir of the Mongoose,quality: 18,sellin: 6
+We have 173077.5 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 39
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 44,sellin: 3
+Name: Sulfuras, Hand of Ragnaros,quality: 29,sellin: 46
+Name: Sulfuras, Hand of Ragnaros,quality: 48,sellin: 45
+Name: Elixir of the Mongoose,quality: 16,sellin: 16
+Name: Elixir of the Mongoose,quality: 21,sellin: 33
+Name: Elixir of the Mongoose,quality: 21,sellin: 40
+Name: Elixir of the Mongoose,quality: 16,sellin: 36
+Name: Elixir of the Mongoose,quality: 41,sellin: -1
+Name: Elixir of the Mongoose,quality: 41,sellin: 6
+Name: Elixir of the Mongoose,quality: 21,sellin: 41
+Name: Elixir of the Mongoose,quality: 36,sellin: 18
+Name: Elixir of the Mongoose,quality: 40,sellin: 11
+Name: Elixir of the Mongoose,quality: 34,sellin: 13
+Name: Conjured,quality: 7,sellin: 27
+Name: Conjured,quality: 43,sellin: 47
+Name: Conjured,quality: 36,sellin: 11
+Name: Conjured,quality: 34,sellin: 12
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 1
+Name: Elixir of the Mongoose,quality: 19,sellin: -10
+Name: Elixir of the Mongoose,quality: 18,sellin: 6
+We have 173077.5 moneys.
+Update!
+We sold item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Conjured
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We sold item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We sold item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 38
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 15,sellin: 15
+Name: Elixir of the Mongoose,quality: 20,sellin: 32
+Name: Elixir of the Mongoose,quality: 20,sellin: 39
+Name: Elixir of the Mongoose,quality: 15,sellin: 35
+Name: Elixir of the Mongoose,quality: 20,sellin: 40
+Name: Elixir of the Mongoose,quality: 35,sellin: 17
+Name: Elixir of the Mongoose,quality: 33,sellin: 12
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 0
+Name: Elixir of the Mongoose,quality: 17,sellin: -11
+Name: Elixir of the Mongoose,quality: 17,sellin: 5
+We have 200029.5 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 38
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 15,sellin: 15
+Name: Elixir of the Mongoose,quality: 20,sellin: 32
+Name: Elixir of the Mongoose,quality: 20,sellin: 39
+Name: Elixir of the Mongoose,quality: 15,sellin: 35
+Name: Elixir of the Mongoose,quality: 20,sellin: 40
+Name: Elixir of the Mongoose,quality: 35,sellin: 17
+Name: Elixir of the Mongoose,quality: 33,sellin: 12
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 0
+Name: Elixir of the Mongoose,quality: 17,sellin: -11
+Name: Elixir of the Mongoose,quality: 17,sellin: 5
+We have 200029.5 moneys.
+Update!
+We don't have this item Vest
+We sold item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Vest
+We sold item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 37
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 15,sellin: 14
+Name: Elixir of the Mongoose,quality: 15,sellin: 34
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Elixir of the Mongoose,quality: 15,sellin: -12
+Name: Elixir of the Mongoose,quality: 16,sellin: 4
+We have 214285.5 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 37
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 15,sellin: 14
+Name: Elixir of the Mongoose,quality: 15,sellin: 34
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Elixir of the Mongoose,quality: 15,sellin: -12
+Name: Elixir of the Mongoose,quality: 16,sellin: 4
+We have 214285.5 moneys.
+Update!
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We sold item Conjured
+We sold item Conjured
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 48
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 5
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 14,sellin: 13
+Name: Elixir of the Mongoose,quality: 14,sellin: 33
+Name: Elixir of the Mongoose,quality: 19,sellin: 10
+Name: Elixir of the Mongoose,quality: 21,sellin: 35
+Name: Aged Brie,quality: 33,sellin: 14
+Name: Conjured,quality: 7,sellin: 37
+Name: Conjured Mana Cake,quality: 20,sellin: 20
+Name: Conjured Mana Cake,quality: 34,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Elixir of the Mongoose,quality: 13,sellin: -13
+Name: Elixir of the Mongoose,quality: 15,sellin: 3
+We have 223321.5 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 48
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 5
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 14,sellin: 13
+Name: Elixir of the Mongoose,quality: 14,sellin: 33
+Name: Elixir of the Mongoose,quality: 19,sellin: 10
+Name: Elixir of the Mongoose,quality: 21,sellin: 35
+Name: Aged Brie,quality: 33,sellin: 14
+Name: Conjured,quality: 7,sellin: 37
+Name: Conjured Mana Cake,quality: 20,sellin: 20
+Name: Conjured Mana Cake,quality: 34,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Elixir of the Mongoose,quality: 13,sellin: -13
+Name: Elixir of the Mongoose,quality: 15,sellin: 3
+We have 223321.5 moneys.
+Update!
+We sold item Aged Brie
+We sold item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 47
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 14,sellin: 12
+Name: Elixir of the Mongoose,quality: 14,sellin: 32
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Elixir of the Mongoose,quality: 11,sellin: -14
+Name: Elixir of the Mongoose,quality: 14,sellin: 2
+We have 261111.0 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 47
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 14,sellin: 12
+Name: Elixir of the Mongoose,quality: 14,sellin: 32
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Elixir of the Mongoose,quality: 11,sellin: -14
+Name: Elixir of the Mongoose,quality: 14,sellin: 2
+We have 261111.0 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 46
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 3
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 13,sellin: 31
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Elixir of the Mongoose,quality: 9,sellin: -15
+Name: Elixir of the Mongoose,quality: 13,sellin: 1
+We have 284085.0 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 46
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 3
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Elixir of the Mongoose,quality: 13,sellin: 31
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Elixir of the Mongoose,quality: 9,sellin: -15
+Name: Elixir of the Mongoose,quality: 13,sellin: 1
+We have 284085.0 moneys.
+Update!
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We sold item Elixir of the Mongoose
+We sold item Aged Brie
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Conjured
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 45
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 28
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Elixir of the Mongoose,quality: 13,sellin: 30
+Name: Elixir of the Mongoose,quality: 22,sellin: 41
+Name: Elixir of the Mongoose,quality: 29,sellin: 28
+Name: Conjured Mana Cake,quality: 38,sellin: 30
+Name: Conjured Mana Cake,quality: 33,sellin: -1
+Name: Conjured Mana Cake,quality: 43,sellin: 47
+Name: Conjured Mana Cake,quality: 28,sellin: 41
+Name: Conjured Mana Cake,quality: 35,sellin: 35
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Elixir of the Mongoose,quality: 7,sellin: -16
+Name: Elixir of the Mongoose,quality: 12,sellin: 0
+We have 298461.0 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 32,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 45
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 28
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Elixir of the Mongoose,quality: 13,sellin: 30
+Name: Elixir of the Mongoose,quality: 22,sellin: 41
+Name: Elixir of the Mongoose,quality: 29,sellin: 28
+Name: Conjured Mana Cake,quality: 38,sellin: 30
+Name: Conjured Mana Cake,quality: 33,sellin: -1
+Name: Conjured Mana Cake,quality: 43,sellin: 47
+Name: Conjured Mana Cake,quality: 28,sellin: 41
+Name: Conjured Mana Cake,quality: 35,sellin: 35
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Elixir of the Mongoose,quality: 7,sellin: -16
+Name: Elixir of the Mongoose,quality: 12,sellin: 0
+We have 298461.0 moneys.
+Update!
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Vest
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We sold item Conjured Mana Cake
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Aged Brie
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 27
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Conjured Mana Cake,quality: 31,sellin: -2
+Name: Conjured Mana Cake,quality: 27,sellin: 40
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Elixir of the Mongoose,quality: 5,sellin: -17
+Name: Elixir of the Mongoose,quality: 10,sellin: -1
+We have 318406.5 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 27
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Conjured Mana Cake,quality: 31,sellin: -2
+Name: Conjured Mana Cake,quality: 27,sellin: 40
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Elixir of the Mongoose,quality: 5,sellin: -17
+Name: Elixir of the Mongoose,quality: 10,sellin: -1
+We have 318406.5 moneys.
+Update!
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 26
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+We have 354367.5 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 26
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+We have 354367.5 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured
+We sold item Aged Brie
+We sold item Vest
+We sold item Conjured
+We sold item Conjured
+We sold item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Conjured
+We don't have this item Conjured
+We sold item Vest
+We sold item Elixir of the Mongoose
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 45
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 20
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 27,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 30,sellin: 22
+Name: Sulfuras, Hand of Ragnaros,quality: 31,sellin: 37
+Name: Elixir of the Mongoose,quality: 11,sellin: 29
+Name: Conjured Mana Cake,quality: 26,sellin: 46
+Name: Conjured Mana Cake,quality: 34,sellin: 1
+Name: Conjured Mana Cake,quality: 29,sellin: 4
+Name: Conjured Mana Cake,quality: 39,sellin: 40
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+We have 349900.0 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 45
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 20
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 27,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 30,sellin: 22
+Name: Sulfuras, Hand of Ragnaros,quality: 31,sellin: 37
+Name: Elixir of the Mongoose,quality: 11,sellin: 29
+Name: Conjured Mana Cake,quality: 26,sellin: 46
+Name: Conjured Mana Cake,quality: 34,sellin: 1
+Name: Conjured Mana Cake,quality: 29,sellin: 4
+Name: Conjured Mana Cake,quality: 39,sellin: 40
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+We have 348870.67 moneys.
+Update!
+We don't have this item Vest
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Conjured Mana Cake
+We sold item Conjured Mana Cake
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Elixir of the Mongoose,quality: 11,sellin: 28
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+We have 381786.67 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 19,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 14,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Elixir of the Mongoose,quality: 11,sellin: 28
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+We have 381786.67 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 18
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+We have 396084.67 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 18
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+We have 396084.67 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Vest
+We sold item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We sold item Conjured Mana Cake
+We don't have this item Aged Brie
+We sold item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We sold item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 34
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 42,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 33,sellin: 24
+Name: Sulfuras, Hand of Ragnaros,quality: 38,sellin: 43
+Name: Sulfuras, Hand of Ragnaros,quality: 38,sellin: 45
+Name: Sulfuras, Hand of Ragnaros,quality: 37,sellin: 34
+Name: Elixir of the Mongoose,quality: 34,sellin: 36
+Name: Elixir of the Mongoose,quality: 38,sellin: 36
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+We have 427378.67 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 34,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 15,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 45,sellin: 34
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 42,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 33,sellin: 24
+Name: Sulfuras, Hand of Ragnaros,quality: 38,sellin: 43
+Name: Sulfuras, Hand of Ragnaros,quality: 38,sellin: 45
+Name: Sulfuras, Hand of Ragnaros,quality: 37,sellin: 34
+Name: Elixir of the Mongoose,quality: 34,sellin: 36
+Name: Elixir of the Mongoose,quality: 38,sellin: 36
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+We have 427378.67 moneys.
+Update!
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Elixir of the Mongoose
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 33
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 33,sellin: 24
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+We have 457182.17 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 33
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 33,sellin: 24
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+We have 457182.17 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 32
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+We have 472572.17 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 33,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 35,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 22,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 16,sellin: 15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 46,sellin: 32
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 49,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+We have 472572.17 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured
+We sold item Conjured
+We sold item Aged Brie
+We sold item Conjured
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Aged Brie
+We sold item Conjured Mana Cake
+We sold item Aged Brie
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Elixir of the Mongoose
+We don't have this item Conjured
+We don't have this item Aged Brie
+We sold item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We sold item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 20
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 30
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+We have 486952.17 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 27
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 14
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 31
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 44
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 20
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 30
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -14
+We have 486952.17 moneys.
+Update!
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Conjured Mana Cake
+We don't have this item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 30
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+We have 498490.17 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 26
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 40,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 42,sellin: 35
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 38
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 17,sellin: 13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 30
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 23,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 43
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 36,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 20,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 30
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -15
+We have 498490.17 moneys.
+Update!
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Elixir of the Mongoose
+We don't have this item Elixir of the Mongoose
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+We don't have this item Vest
+We don't have this item Vest
+We don't have this item Aged Brie
+We don't have this item Conjured
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Aged Brie
+We don't have this item Aged Brie
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Elixir of the Mongoose
+We don't have this item Vest
+We don't have this item Conjured
+We don't have this item Aged Brie
+We don't have this item Conjured Mana Cake
+We don't have this item Conjured Mana Cake
+We don't have this item Aged Brie
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 18
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 30
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+We have 522736.17 moneys.
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: 0
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 22
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 34
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 37
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 6
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 12
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 29
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 4
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 40
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 42
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 18
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 30
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -16
+We have 522736.17 moneys.
+Update!
+We sold item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Aged Brie
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Conjured Mana Cake
+We sold item Elixir of the Mongoose
+We sold item Vest
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Conjured Mana Cake
+We sold item Vest
+We sold item Conjured Mana Cake
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Vest
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Sulfuras, Hand of Ragnaros
+We sold item Backstage passes to a TAFKAL80ETC concert
+We sold item Sulfuras, Hand of Ragnaros
+We don't have this item Vest
+We sold item Elixir of the Mongoose
+We sold item Aged Brie
+We sold item Conjured
+We sold item Conjured Mana Cake
+We sold item Backstage passes to a TAFKAL80ETC concert
+We don't have this item Vest
+We don't have this item Vest
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We sold item Elixir of the Mongoose
+We sold item Backstage passes to a TAFKAL80ETC concert
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -18
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -23
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 47,sellin: -1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 30,sellin: 24
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 41,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -7
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 38,sellin: 19
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 21
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 43,sellin: 33
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 31,sellin: 9
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -13
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 39,sellin: 1
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 29,sellin: 16
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 28,sellin: 2
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 36
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 5
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 26,sellin: 20
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 18,sellin: 11
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 48,sellin: 28
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 3
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 24,sellin: 39
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 27,sellin: 32
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 37,sellin: 10
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 21,sellin: 17
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 25,sellin: 25
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 44,sellin: 21
+Name: Sulfuras, Hand of Ragnaros,quality: 12,sellin: 2
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 19
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 23
+Name: Sulfuras, Hand of Ragnaros,quality: 21,sellin: 4
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 13
+Name: Sulfuras, Hand of Ragnaros,quality: 18,sellin: 30
+Name: Sulfuras, Hand of Ragnaros,quality: 23,sellin: 33
+Name: Conjured,quality: 10,sellin: 3
+Name: Conjured Mana Cake,quality: 24,sellin: 48
+Name: Sulfuras, Hand of Ragnaros,quality: 24,sellin: 41
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 50,sellin: 8
+Name: Backstage passes to a TAFKAL80ETC concert,quality: 0,sellin: -17
+We have 548815.1699999999 moneys.
