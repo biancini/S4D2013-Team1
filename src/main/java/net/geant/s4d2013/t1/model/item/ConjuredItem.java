@@ -19,5 +19,10 @@ public class ConjuredItem extends RoseItem {
 			decreaseQuality(2);
 		}
 	}
+	
+	@Override
+	public boolean canGoToFridge() {
+		return true;
+	}
 
 }

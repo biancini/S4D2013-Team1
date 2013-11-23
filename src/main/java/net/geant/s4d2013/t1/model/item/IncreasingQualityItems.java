@@ -1,6 +1,6 @@
 package net.geant.s4d2013.t1.model.item;
 
-public class IncreasingQualityItems extends RoseItem {
+public abstract class IncreasingQualityItems extends RoseItem {
 
 	public IncreasingQualityItems(SpecialItem product, int sellIn, int quality) {
 		super(product.getName(), sellIn, quality);

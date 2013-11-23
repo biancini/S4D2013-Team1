@@ -38,9 +38,17 @@ public class Warehouse {
 	}
 
 	public void put(RoseItem item) {
-		try {
-			fridge.put(item);
-		} catch (NoMoreCapacityExcetion e) {
+		boolean insertedIntoFridge = false;
+		if (item.canGoToFridge()) {
+			try {
+				fridge.put(item);
+				insertedIntoFridge = true;
+			} catch (NoMoreCapacityExcetion e) {
+				// Do nothing
+			}
+		}
+
+		if (!insertedIntoFridge) {
 			regularStorage.put(item);
 		}
 	}

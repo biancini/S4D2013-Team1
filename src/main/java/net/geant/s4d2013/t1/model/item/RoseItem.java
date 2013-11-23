@@ -52,6 +52,8 @@ public abstract class RoseItem extends Item {
 	protected abstract void updateItemSellIn();
 
 	protected abstract void updateItemQuality();
+	
+	public abstract boolean canGoToFridge();
 
 	public boolean isEqual(SpecialItem specialProduct) {
 		return name.equals(specialProduct.getName());

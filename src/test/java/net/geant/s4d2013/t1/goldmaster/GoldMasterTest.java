@@ -3,7 +3,6 @@ package net.geant.s4d2013.t1.goldmaster;
 import java.io.IOException;
 
 import org.junit.Assert;
-import org.junit.Test;
 import org.junit.Ignore;
 
 public class GoldMasterTest {

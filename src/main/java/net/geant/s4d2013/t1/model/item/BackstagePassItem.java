@@ -5,5 +5,10 @@ public class BackstagePassItem extends IncreasingQualityItems {
 	public BackstagePassItem(int sellIn, int quality) {
 		super(SpecialItem.BACKSTAGE.getName(), sellIn, quality);
 	}
+	
+	@Override
+	public boolean canGoToFridge() {
+		return false;
+	}
 
 }

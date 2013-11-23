@@ -15,5 +15,10 @@ public class SulfurasItem extends RoseItem {
 	protected void updateItemQuality() {
 		// Do Nothing
 	}
+	
+	@Override
+	public boolean canGoToFridge() {
+		return false;
+	}
 
 }
