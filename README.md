@@ -40,5 +40,6 @@ Feel free to make any changes to the UpdateQuality method and add any new code a
 Tomorrow we are going to provide you with additional requirements related to our system. So... get ready for changes!
 
 * We have recently signed a supplier of conjured items. This requires an update to our system: “Conjured” items degrade in Quality twice as fast as normal items
-* We have bought a fridge. Quality of items stored in a fridge decreases two times slower than ones that are kept outside. The fridge has a limited capacity – only 20 items can be stored inside.
+* We have bought a fridge. Quality of items stored in a fridge decreases two times slower than ones that are kept outside.
+* The fridge has a limited capacity – only 20 items can be stored inside.
 * The fridge requires service. Every 30 days we have to pay 2% of offerPrice of items that currently are in a fridge for a service.
