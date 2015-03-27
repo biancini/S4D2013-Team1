@@ -34,10 +34,11 @@ offerPrice = value * Quality(current)*1.5
 
 So, if you buy an item and sell it the same day (so the Quality does not change) you earn 50%.
 
-*Maximize your income and avoid bankruptcy.*
+**Maximize your income and avoid bankruptcy.**
 
 Feel free to make any changes to the UpdateQuality method and add any new code as long as everything still works correctly. However, do not alter the Item class or Items property as those belong to the goblin in the corner who will insta-rage and one-shot you as he doesn’t believe in shared code ownership.
-Tomorrow we are going to provide you with additional requirements related to our system. So… get ready for changes!
+Tomorrow we are going to provide you with additional requirements related to our system. So... get ready for changes!
 
-We have recently signed a supplier of conjured items. This requires an update to our system: “Conjured” items degrade in Quality twice as fast as normal items
-We have bought a fridge. Quality of items stored in a fridge decreases two times slower than ones that are kept outside. The fridge has a limited capacity – only 20 items can be stored inside. The fridge requires service. Every 30 days we have to pay 2% of offerPrice of items that currently are in a fridge for a service.
+* We have recently signed a supplier of conjured items. This requires an update to our system: “Conjured” items degrade in Quality twice as fast as normal items
+* We have bought a fridge. Quality of items stored in a fridge decreases two times slower than ones that are kept outside. The fridge has a limited capacity – only 20 items can be stored inside.
+* The fridge requires service. Every 30 days we have to pay 2% of offerPrice of items that currently are in a fridge for a service.
